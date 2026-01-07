@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+  --font-DG: "Darker Grotesque", sans-serif;
+  --color-praimary:#000000;
+  --color-secendary:#888888;
+}
